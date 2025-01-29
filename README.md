@@ -17,4 +17,4 @@ Hello! I'm a technical writer with expertise in creating clear, concise, and eng
 
 ## Contact Me
 - [Email](jnath2882@gmail.com)
-- [LinkedIn](www.linkedin.com/in/jyoti-prasad-nath-5a233b232)
+- [LinkedIn](https://www.linkedin.com/in/jyoti-prasad-nath-5a233b232)
