@@ -1,6 +1,6 @@
 <h1 align="center">Introduction</h1>
 
-## Jyoti Prasad Nath - Technical Writer
+<h2 align="center">Jyoti Prasad Nath - Technical Writer</h2>
 
 ### About me
 
