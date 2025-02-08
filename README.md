@@ -9,12 +9,12 @@ Established technical writer in software industry specializing in writing clear,
 </p>
 
 ## Skills
-- **Documentation Tools**: Confluence, MadCap Flare, Microsoft Word
-- **Languages**: Markdown, HTML/CSS
-- **Specializations**: API documentation, user guides, tutorials, knowledge base articles
+- **Documentation Tools**: RoboHelp, draw.io, Confluence, MadCap Flare, Microsoft Word.
+- **Languages**: Markdown.
+- **Specializations**: API documentation, user guides, Process flow diagram
 
 ## Portfolio
-- [Sample API Documentation](Sample API Documentation for weather API)
+- [Sample API Documentation for weather API](https://github.com/jnath2882/Introduction/blob/b166cae40cd3810a22db8abe042962ad777245e2/Sample%20API%20Documentation%20for%20weather%20API)
 - [Software User Guide](#)
 - [Knowledge Base Article](#)
 
