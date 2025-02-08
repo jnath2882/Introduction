@@ -14,7 +14,7 @@ Established technical writer in software industry specializing in writing clear,
 - **Specializations**: API documentation, user guides, Process flow diagram
 
 ## Portfolio
-- [Sample API Documentation for weather API](https://github.com/jnath2882/Sample-API-Documentation.wiki.git)
+- [Sample API Documentation for weather API](https://github.com/jnath2882/Sample-API-Documentation/wiki/Sample-API-Documentation-for-weather-API)
 - [Software User Guide](#)
 - [Knowledge Base Article](#)
 
