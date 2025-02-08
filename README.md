@@ -14,7 +14,7 @@ Established technical writer in software industry specializing in writing clear,
 - **Specializations**: API documentation, user guides, tutorials, knowledge base articles
 
 ## Portfolio
-- [Sample API Documentation](Sample_API_Documentaion)
+- [Sample API Documentation](Sample API Documentation for weather API)
 - [Software User Guide](#)
 - [Knowledge Base Article](#)
 
