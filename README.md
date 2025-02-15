@@ -14,6 +14,7 @@ Established technical writer in software industry specializing in writing clear,
 - **Specializations**: API documentation, user guides, Process flow diagram
 
 ## Portfolio
+- [Step by step guide]()
 - [Sample API Documentation for weather API](https://github.com/jnath2882/Sample-API-Documentation/wiki/Sample-API-Documentation-for-weather-API)
 - [Process flow diagram](https://github.com/jnath2882/Process-Flow-Chart/wiki/Process-flow-chart-for-an-imaginary-mobile-app-%22QuickFit%22)
 - [QuickFit User Guide](https://github.com/jnath2882/Software-user-guide/wiki/User-guide-of-QuickFit-mobile-app)
