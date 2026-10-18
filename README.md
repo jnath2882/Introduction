@@ -1,19 +1,53 @@
-<h1 align="center">Introduction</h1>
+<h1 align="left">Hi, I'm Jyoti Prasad Nath</h1>
+<h2>Technical Writer | DITA/XML & Structured Authoring | API Documentation</h2>
 
-<h2 align="center">Jyoti Prasad Nath - Technical Writer</h2>
+<p align="justify">I'm a Technical Writer with 8 years of experience creating accurate, user-focused documentation for telecommunications, enterprise software, and aerospace products. I specialize in structured authoring, single-sourcing, and CCMS-based publishing, and I'm increasingly exploring how AI-assisted workflows can speed up documentation.</p>
 
-### About me
+## What I'm Doing Now
+- Technical Writer at Avaya (via ICTECT), writing User, Admin, Deployment, and Upgrade Guides for an enterprise telecom product suite
+- Building AI-assisted authoring workflows (Google Gemini, Microsoft Copilot) that turn JIRA ticket details into first drafts, shortening review cycles
+- Contributing to a DITA/XML migration that cut tool maintenance and translation costs by 30%
 
-<p align="justify">
-Established technical writer in software industry specializing in writing clear, concise, and engaging technical documentation. Well-versed with tools to tailor user needs through various documentation, including user guides, installation guides, release notes, troubleshooting guides. Hands-on experience with processes and tools, including DDLC, Confluence, RoboHelp, draw.io, MS Word. Well-versed in the entire documentation life cycle, from initial research and content planning to final publishing and maintenance. Adept at working closely cross-functional teams to align documentation with organizational goals and deliver a seamless user experience.Hello! I'm a technical writer with expertise in creating clear, concise, and engaging documentation for software, APIs, and user manuals. I thrive on transforming complex information into accessible knowledge.
-</p>
+## Skills and Tools
+- **Documentation types**: User Guides | Admin Guides | Deployment Guides | Upgrade Guides | Troubleshooting Guides | Release Notes | Product Support Notices | Quick Start Guides | Online Help | SOPs | API Documentation
+- **Authoring & CCMS**: Adobe Experience Manager (AEM) | SDL Tridion Docs | Oxygen XML Editor | MadCap Flare | Adobe FrameMaker | MS Office
+- **Standards & methodologies**: DITA/XML | Structured & Topic-Based Authoring | Content Reuse | Single-Sourcing | Microsoft Manual of Style (MSTP) | Simplified Technical English (STE) | DDLC
+- **API & docs-as-code**: Swagger | OpenAPI | Markdown | XML | HTML | Git | GitHub
+- **AI-assisted writing**: Google Gemini | Microsoft Copilot | Prompt-based drafting
+- **Visuals**: draw.io | Xmind | Snagit
+- **Collaboration**: JIRA | Confluence | Agile | Google Workspace | SME collaboration | Peer review
 
-## Skills
-- **Documentation Tools**: RoboHelp, draw.io, Confluence, MadCap Flare, Microsoft Word.
-- **Languages**: Markdown.
-- **Specializations**: API documentation, user guides, Process flow diagram
+## Experience
+|Role  |	Company	| Period|
+|-----|----------|--------|
+|Technical Writer| Avaya LLC (deputed from ICTECT), Bengaluru|	Jun 2025 – Present|
+|Technical Writer|	Capgemini, Bengaluru|	Jan 2024 – Jun 2025|
+|Technical Author|	Air India Express, Bengaluru|	Nov 2022 – Jan 2024|
+|Technical Author|	IndiGo Airlines, Gurugram|	Oct 2018 – Nov 2022|
 
-## Portfolio
+### Avaya
+- Interview SMEs and developers to turn complex feature requirements into clear documentation
+- Publish Product Support Notices (PSNs) and manage content on the Avaya Documentation Portal
+- Peer-review documentation from fellow writers to maintain team-wide quality standards
+### Capgemini
+- Produced user guides, quick start guides, release notes, and online help
+- Wrote API documentation with Swagger (OpenAPI) and Markdown, versioned with Git
+- Received the WOW Award for documentation quality, accelerated delivery, and cross-team collaboration
+### Air India Express
+- Authored DITA-based service bulletins, troubleshooting guides, and maintenance manuals
+- Wrote SOPs and compliance-driven aerospace manuals; ran independent quality reviews
+#### IndiGo Airlines
+- Authored FCOMs, QRHs, and MELs for aircraft documentation
+- Managed the content lifecycle in an XML-based CMS, from authoring through multi-platform publication
+
+## Work Portfolio
+- [Avaya CMS Overview and Specification](https://documentation.avaya.com/en-us/home/bundle/cms/cmsoverviewandspecification_r21-2-x/purpose.html)
+- [Upgrading Avaya CMS](https://documentation.avaya.com/en-us/home/bundle/cms/upgradingavayacms_r21-2-x/purpose.html)
+- [Administering Avaya CM](https://documentation.avaya.com/en-us/home/bundle/communication-manager/administeringcommunicationmanager_r10-3-x/overview.html)
+- [Deploying Avaya Aura® Communication Manager in Software-Only and Infrastructure as a Service Environments](https://documentation.avaya.com/en-us/home/bundle/communication-manager/deployingcommunicationmanager_swonly_iaas_r10-3-x/software-only-environment-overview.html)
+- [Maintaining Avaya Aura Session Manager](https://documentation.avaya.com/en-us/home/bundle/session-manager/maintainingavayaaurasessionmanager_r10-3-x/session-manager-overview.html)
+
+## Sample Portfolio
 - [Step by step guide](https://github.com/jnath2882/Step-by-step-guide/wiki/Create-a-Basic-Report-in-Salesforce)
 - [Sample API Documentation for weather API](https://github.com/jnath2882/Sample-API-Documentation/wiki/Sample-API-Documentation-for-weather-API)
 - [Process flow diagram](https://github.com/jnath2882/Process-Flow-Chart/wiki/Process-flow-chart-for-an-imaginary-mobile-app-%22QuickFit%22)
